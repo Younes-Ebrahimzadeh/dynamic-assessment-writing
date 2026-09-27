@@ -76,30 +76,6 @@ The app is built around a provider agnostic AI layer rather than a single vendor
 - Accounts, authentication, and a database (it currently runs single user and local)
 - Exams beyond IELTS: TOEFL, B2 First, C1 Advanced, PTE
 
-## Screenshots
-
-### The writing session
-Writing stays on the left, mediation on the right, so the learner never loses sight of their own text.
-
-![Writing session](screenshots/01-writing-session.png)
-
-### A mediated error
-The mediator points at one issue at a time. The highlight sits in the learner's own writing, and
-its intensity reflects how explicit the hint was.
-
-![Mediated error](screenshots/02-mediated-error.png)
-
-### Applying a resolved fix
-When an issue is genuinely resolved, the correction can be applied to the essay and is traced in
-the text, so the learner can see what changed.
-
-![Applied fix](screenshots/03-applied-fix.png)
-
-### The journey
-Progress across sessions, with band, skill breakdown, and the full transcript of every session.
-
-![Journey](screenshots/04-journey.png)
-
 ## Stack
 
 Node.js with no framework and no dependencies, vanilla HTML, CSS, and JavaScript with no
